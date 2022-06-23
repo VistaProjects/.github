@@ -5,6 +5,9 @@ Online 1v1 memory game that is synced in real time.
 Also has a leaderboard, online user system (updates in real time), ability to challenge other users that are online.  
 Also includes a custom login, registration page, invite system that can be enabled with the admin user in the dashboard and more.
 
+## [Challenge](https://github.com/VistaProjects/Challenge)
+24 Coding challenges with a description per challenge
+
 ## [Secure](https://github.com/VistaProjects/Secure)
 Website that will explain you more about internet security and also a quiz about it.
 
